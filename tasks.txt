@@ -1,0 +1,4 @@
+grocery 9
+shop 2
+swim 11
+eat 6
